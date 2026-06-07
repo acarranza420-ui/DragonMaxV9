@@ -1,9 +1,13 @@
 {
-  "name": "DragonMax V9.7 Fixed Wizard Installer",
-  "version": "1.9.7",
+  "name": "DragonMax V9.8 Corrected Wizard Payload Installer",
+  "version": "1.9.8",
   "base_url": "https://acarranza420-ui.github.io/DragonMaxV9/",
-  "repo_zip": "repository.dragonmax-1.9.7.zip",
-  "wizard_zip": "plugin.program.dragonmaxwizard-1.9.7.zip",
-  "build_path": "builds/DragonMax_V9_7_Build_Content-1.9.7.zip",
-  "direct_install_warning": "Do not install the build content ZIP directly. It is stored under /builds and must be applied by DragonMax Wizard."
+  "repo_zip": "repository.dragonmax-1.9.8.zip",
+  "wizard_zip": "plugin.program.dragonmaxwizard-1.9.8.zip",
+  "build_path": "builds/DragonMax_V9_8_Build_Content-1.9.8.zip",
+  "alternate_paths": [
+    "DragonMax_V9_8_Build_Content-1.9.8.zip",
+    "builds/DragonMax_V9_7_Build_Content-1.9.7.zip"
+  ],
+  "direct_install_warning": "Do not install build content ZIPs directly. Install the repository ZIP, then use DragonMax Wizard."
 }

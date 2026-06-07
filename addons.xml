@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <addons>
-<addon id="repository.dragonmax" name="DragonMax Repository" version="1.9.7" provider-name="DragonMax RD">
+<addon id="repository.dragonmax" name="DragonMax Repository" version="1.9.8" provider-name="DragonMax RD">
   <extension point="xbmc.addon.repository" name="DragonMax Repository">
     <dir minversion="21.0.0">
       <info compressed="false">https://acarranza420-ui.github.io/DragonMaxV9/addons.xml</info>
@@ -9,12 +9,12 @@
     </dir>
   </extension>
   <extension point="xbmc.addon.metadata">
-    <summary>DragonMax V9.7 Kodi repository</summary>
-    <description>Legal DragonMax fantasy media build repository. Build payloads are hidden under /builds and applied only by the DragonMax Wizard.</description>
+    <summary>DragonMax V9.8 Kodi repository</summary>
+    <description>Legal DragonMax fantasy media build repository. Install the repository ZIP, install the wizard from the repo, then let the wizard apply the payload under /builds.</description>
     <platform>all</platform>
   </extension>
 </addon>
-<addon id="plugin.program.dragonmaxwizard" name="DragonMax Wizard" version="1.9.7" provider-name="DragonMax RD">
+<addon id="plugin.program.dragonmaxwizard" name="DragonMax Wizard" version="1.9.8" provider-name="DragonMax RD">
   <requires>
     <import addon="xbmc.python" version="3.0.0"/>
   </requires>

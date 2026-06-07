@@ -2,27 +2,27 @@
   "realms": [
     {
       "name": "Dragon Order",
-      "status": "unlocked"
+      "status": "default"
     },
     {
       "name": "Arcane Dominion",
-      "status": "unlocked"
+      "status": "available"
     },
     {
       "name": "Crimson Court",
-      "status": "unlocked"
+      "status": "available"
     },
     {
       "name": "Temple Guardians",
-      "status": "level_5"
+      "status": "available"
     },
     {
       "name": "Champion Guild",
-      "status": "level_10"
+      "status": "available"
     },
     {
       "name": "Office Consortium",
-      "status": "unlocked"
+      "status": "available"
     }
   ]
 }
