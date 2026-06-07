@@ -1,13 +1,18 @@
 {
-  "name": "DragonMax V9.8 Corrected Wizard Payload Installer",
-  "version": "1.9.8",
+  "name": "DragonMax V9.9 Kodi 21 Dialog Fix",
+  "version": "1.9.9",
   "base_url": "https://acarranza420-ui.github.io/DragonMaxV9/",
-  "repo_zip": "repository.dragonmax-1.9.8.zip",
-  "wizard_zip": "plugin.program.dragonmaxwizard-1.9.8.zip",
-  "build_path": "builds/DragonMax_V9_8_Build_Content-1.9.8.zip",
+  "repo_zip": "repository.dragonmax-1.9.9.zip",
+  "wizard_zip": "plugin.program.dragonmaxwizard-1.9.9.zip",
+  "build_path": "builds/DragonMax_V9_9_Build_Content-1.9.9.zip",
   "alternate_paths": [
-    "DragonMax_V9_8_Build_Content-1.9.8.zip",
-    "builds/DragonMax_V9_7_Build_Content-1.9.7.zip"
+    "builds/DragonMax_V9_9_Build_Content-1.9.9.zip",
+    "DragonMax_V9_9_Build_Content-1.9.9.zip"
   ],
-  "direct_install_warning": "Do not install build content ZIPs directly. Install the repository ZIP, then use DragonMax Wizard."
+  "fixes": [
+    "Kodi 21 Dialog.ok uses title+message only",
+    "Installer errors if no folders are applied",
+    "Payload marker added for verification"
+  ],
+  "direct_install_warning": "Do not install the build content ZIP directly. It is stored under /builds and must be applied by DragonMax Wizard."
 }

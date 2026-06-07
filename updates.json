@@ -1,11 +1,9 @@
 {
-  "version": "1.9.8",
-  "latest_repo": "repository.dragonmax-1.9.8.zip",
-  "latest_wizard": "plugin.program.dragonmaxwizard-1.9.8.zip",
-  "latest_build": "builds/DragonMax_V9_8_Build_Content-1.9.8.zip",
+  "latest": "1.9.9",
   "notes": [
-    "Fixed build payload path",
-    "Added fallback download paths",
-    "Kept build payload inside /builds"
-  ]
+    "Kodi 21 dialog crash fixed",
+    "Payload application verification added"
+  ],
+  "repository": "repository.dragonmax-1.9.9.zip",
+  "wizard": "plugin.program.dragonmaxwizard-1.9.9.zip"
 }

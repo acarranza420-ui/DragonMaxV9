@@ -15,5 +15,6 @@
     "InputStream Helper",
     "Log Viewer for Kodi",
     "Kodi Logfile Uploader"
-  ]
+  ],
+  "version": "1.9.9"
 }
