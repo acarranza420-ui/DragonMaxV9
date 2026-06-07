@@ -1,39 +1,22 @@
 {
-  "version": "1.9.6",
-  "tiers": {
-    "must_have": [
-      "TMDb Helper",
-      "AutoWidget",
-      "Artwork Beef",
-      "Backup",
-      "Keymap Editor",
-      "Skin Variables"
-    ],
-    "recommended": [
-      "Global Search",
-      "Library Node Editor",
-      "Texture Cache Utilities",
-      "YouTube",
-      "Radio Browser",
-      "Internet Archive",
-      "Log Viewer for Kodi",
-      "Kodi Logfile Uploader",
-      "InputStream Adaptive",
-      "InputStream Helper"
-    ],
-    "media_servers": [
-      "PlexKodiConnect",
-      "Jellyfin",
-      "EmbyCon"
-    ],
-    "office_and_phone": [
-      "Send to Kodi",
-      "Notes Add-on",
-      "Web Viewer"
-    ],
-    "conditional": [
-      "ResolveURL only if a legal add-on requires it"
-    ]
-  },
-  "notes": "DragonMax lists these as legal/support add-ons or integrations. It does not bundle third-party add-ons unless you install them from their proper sources."
+  "recommended": [
+    "TMDb Helper",
+    "AutoWidget",
+    "Artwork Beef",
+    "Backup",
+    "Keymap Editor",
+    "Skin Variables",
+    "Global Search",
+    "Library Node Editor",
+    "YouTube",
+    "Radio Browser",
+    "Internet Archive",
+    "PlexKodiConnect",
+    "Jellyfin",
+    "EmbyCon",
+    "InputStream Adaptive",
+    "InputStream Helper",
+    "Log Viewer for Kodi",
+    "Kodi Logfile Uploader"
+  ]
 }

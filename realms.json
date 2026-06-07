@@ -1,13 +1,28 @@
 {
   "realms": [
-    "Dragon Order",
-    "Arcane Dominion",
-    "Crimson Court",
-    "Temple Guardians",
-    "Champion Guild",
-    "Office Consortium"
-  ],
-  "locked": [
-    "Ancient Realm"
+    {
+      "name": "Dragon Order",
+      "status": "unlocked"
+    },
+    {
+      "name": "Arcane Dominion",
+      "status": "unlocked"
+    },
+    {
+      "name": "Crimson Court",
+      "status": "unlocked"
+    },
+    {
+      "name": "Temple Guardians",
+      "status": "level_5"
+    },
+    {
+      "name": "Champion Guild",
+      "status": "level_10"
+    },
+    {
+      "name": "Office Consortium",
+      "status": "unlocked"
+    }
   ]
 }

@@ -1,17 +1,7 @@
-# DragonMax V9.6 GitHub Upload
+# DragonMax V9.7 Upload Instructions
 
-Upload every file in this `dist` folder to your GitHub Pages repository root.
+Upload EVERYTHING inside this dist folder to your GitHub repo root.
 
-Kodi source URL:
+Kodi install ZIP: `repository.dragonmax-1.9.7.zip`
 
-```text
-https://acarranza420-ui.github.io/DragonMaxV9/
-```
-
-Install only:
-
-```text
-repository.dragonmax-1.9.6.zip
-```
-
-Do not install `DragonMax_V9_6_Build_Content-1.9.6.zip` directly. It is a wizard payload.
+Do not install `builds/DragonMax_V9_7_Build_Content-1.9.7.zip` directly. It is a wizard payload.

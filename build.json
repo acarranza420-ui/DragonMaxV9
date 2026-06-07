@@ -1,9 +1,9 @@
 {
-  "name": "DragonMax V9.6 URL Corrected Stability Build",
-  "version": "1.9.6",
-  "build_zip": "DragonMax_V9_6_Build_Content-1.9.6.zip",
-  "repo_zip": "repository.dragonmax-1.9.6.zip",
-  "wizard_zip": "plugin.program.dragonmaxwizard-1.9.6.zip",
+  "name": "DragonMax V9.7 Fixed Wizard Installer",
+  "version": "1.9.7",
   "base_url": "https://acarranza420-ui.github.io/DragonMaxV9/",
-  "notes": "Build content is payload for wizard extraction, not direct Kodi add-on install. All URLs corrected for DragonMaxV9 GitHub Pages."
+  "repo_zip": "repository.dragonmax-1.9.7.zip",
+  "wizard_zip": "plugin.program.dragonmaxwizard-1.9.7.zip",
+  "build_path": "builds/DragonMax_V9_7_Build_Content-1.9.7.zip",
+  "direct_install_warning": "Do not install the build content ZIP directly. It is stored under /builds and must be applied by DragonMax Wizard."
 }
