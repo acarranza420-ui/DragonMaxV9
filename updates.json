@@ -1,0 +1,18 @@
+{
+  "current": "1.9.6",
+  "required_manifests": [
+    "addons.xml",
+    "addons.xml.md5",
+    "build.json",
+    "updates.json",
+    "themes.json",
+    "realms.json",
+    "legal_addons.json"
+  ],
+  "changes": [
+    "Corrected all repo and wizard URLs to DragonMaxV9",
+    "Restored required addons.xml manifest",
+    "Kept payload extraction flow",
+    "Added upload verification checklist"
+  ]
+}

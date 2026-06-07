@@ -1,9 +1,9 @@
 {
-  "name": "DragonMax V9.5 Stability Support",
-  "version": "1.9.5",
-  "build_zip": "DragonMax_V9_5_Build_Content-1.9.5.zip",
-  "repo_zip": "repository.dragonmax-1.9.5.zip",
-  "wizard_zip": "plugin.program.dragonmaxwizard-1.9.5.zip",
-  "base_url": "https://acarranza420-ui.github.io/DragonMax-V9-2/",
-  "notes": "Build content is payload for wizard extraction, not direct Kodi add-on install."
+  "name": "DragonMax V9.6 URL Corrected Stability Build",
+  "version": "1.9.6",
+  "build_zip": "DragonMax_V9_6_Build_Content-1.9.6.zip",
+  "repo_zip": "repository.dragonmax-1.9.6.zip",
+  "wizard_zip": "plugin.program.dragonmaxwizard-1.9.6.zip",
+  "base_url": "https://acarranza420-ui.github.io/DragonMaxV9/",
+  "notes": "Build content is payload for wizard extraction, not direct Kodi add-on install. All URLs corrected for DragonMaxV9 GitHub Pages."
 }

@@ -1,0 +1,13 @@
+{
+  "realms": [
+    "Dragon Order",
+    "Arcane Dominion",
+    "Crimson Court",
+    "Temple Guardians",
+    "Champion Guild",
+    "Office Consortium"
+  ],
+  "locked": [
+    "Ancient Realm"
+  ]
+}
